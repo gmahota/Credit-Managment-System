@@ -1,0 +1,6 @@
+[submodule "strapi-credit-managment"]
+	path = strapi-credit-managment
+	url = https://github.com/gmahota/strapi-credit-managment.git
+[submodule "nextjs-credit-managment"]
+	path = nextjs-credit-managment
+	url = https://github.com/gmahota/nextjs-credit-managment.git
